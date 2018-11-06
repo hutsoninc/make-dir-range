@@ -1,6 +1,6 @@
 {
   "name": "make-dir-range",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make directories from ranges of integers.",
   "main": "index.js",
   "scripts": {
