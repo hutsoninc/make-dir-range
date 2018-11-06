@@ -12,9 +12,16 @@
     "range",
     "loop",
     "make",
+    "create",
     "dir",
+    "dirs",
     "directory",
-    "directories"
+    "directories",
+    "folder",
+    "folders",
+    "fs",
+    "filesystem",
+    "file-system"
   ],
   "author": {
     "name": "Austin Gordon",

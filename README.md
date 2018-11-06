@@ -1,6 +1,10 @@
-# make-dir-range
+# make-dir-range [![Build Status](https://travis-ci.com/hutsoninc/make-dir-range.svg?branch=master)](https://travis-ci.com/hutsoninc/make-dir-range)
 
 Make directories from ranges of integers.
+
+## Installation
+
+`npm install --save make-dir-range`
 
 ## Usage
 
