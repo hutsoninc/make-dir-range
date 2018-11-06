@@ -49,6 +49,10 @@ $ tree
 │ ...
 ```
 
+## Related
+
+- [make-dir-range-cli](https://github.com/hutsoninc/make-dir-range-cli) - CLI for this module
+
 ## Authors
 
 * **Austin Gordon** - *Development* - [GitHub](https://github.com/AustinLeeGordon)
