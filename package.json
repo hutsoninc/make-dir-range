@@ -1,0 +1,34 @@
+{
+  "name": "make-dir-range",
+  "version": "1.0.0",
+  "description": "Make directories from ranges of integers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "mkdir",
+    "integer",
+    "range",
+    "loop",
+    "make",
+    "dir",
+    "directory",
+    "directories"
+  ],
+  "author": {
+    "name": "Austin Gordon",
+    "email": "agordon@hutsoninc.com",
+    "url": "https://github.com/AustinLeeGordon"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hutsoninc/make-dir-range"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "mkdirp": "^0.5.1",
+    "rimraf": "^2.6.2"
+  }
+}

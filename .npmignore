@@ -1,0 +1,12 @@
+# System generated files
+.DS_Store
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Temporary
+temp*
+*.tmp
